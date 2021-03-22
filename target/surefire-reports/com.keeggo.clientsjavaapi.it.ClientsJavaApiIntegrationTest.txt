@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.keeggo.clientsjavaapi.it.ClientsJavaApiIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.13 s - in com.keeggo.clientsjavaapi.it.ClientsJavaApiIntegrationTest

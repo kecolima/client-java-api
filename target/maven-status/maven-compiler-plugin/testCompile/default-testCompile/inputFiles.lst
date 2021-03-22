@@ -1,0 +1,14 @@
+/home/Alex.Lima/cadastroDeClientes/clients-java-api/src/test/java/com/keeggo/clientsjavaapi/test/service/user/UserServiceTest.java
+/home/Alex.Lima/cadastroDeClientes/clients-java-api/src/test/java/com/keeggo/clientsjavaapi/test/controller/user/UserControllerTest.java
+/home/Alex.Lima/cadastroDeClientes/clients-java-api/src/test/java/com/keeggo/clientsjavaapi/test/repository/user/UserRepositoryTest.java
+/home/Alex.Lima/cadastroDeClientes/clients-java-api/src/test/java/com/keeggo/clientsjavaapi/test/controller/user/UserAccountControllerTest.java
+/home/Alex.Lima/cadastroDeClientes/clients-java-api/src/test/java/com/keeggo/clientsjavaapi/test/controller/client/ClientControllerTest.java
+/home/Alex.Lima/cadastroDeClientes/clients-java-api/src/test/java/com/keeggo/clientsjavaapi/test/repository/client/ClientRepositoryTest.java
+/home/Alex.Lima/cadastroDeClientes/clients-java-api/src/test/java/com/keeggo/clientsjavaapi/test/repository/user/UserAccountRepositoryTest.java
+/home/Alex.Lima/cadastroDeClientes/clients-java-api/src/it/java/com/keeggo/clientsjavaapi/it/ClientsJavaApiIntegrationTest.java
+/home/Alex.Lima/cadastroDeClientes/clients-java-api/src/test/java/com/keeggo/clientsjavaapi/test/controller/security/AuthenticationControllerTest.java
+/home/Alex.Lima/cadastroDeClientes/clients-java-api/src/test/java/com/keeggo/clientsjavaapi/test/service/account/AccountServiceTest.java
+/home/Alex.Lima/cadastroDeClientes/clients-java-api/src/test/java/com/keeggo/clientsjavaapi/test/service/client/ClientServiceTest.java
+/home/Alex.Lima/cadastroDeClientes/clients-java-api/src/test/java/com/keeggo/clientsjavaapi/test/repository/account/AccountRepositoryTest.java
+/home/Alex.Lima/cadastroDeClientes/clients-java-api/src/test/java/com/keeggo/clientsjavaapi/test/service/user/UserAccountServiceTest.java
+/home/Alex.Lima/cadastroDeClientes/clients-java-api/src/test/java/com/keeggo/clientsjavaapi/test/controller/account/AccountControllerTest.java

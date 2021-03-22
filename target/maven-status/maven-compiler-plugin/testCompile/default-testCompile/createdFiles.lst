@@ -1,0 +1,15 @@
+com/keeggo/clientsjavaapi/test/controller/security/AuthenticationControllerTest.class
+com/keeggo/clientsjavaapi/test/repository/client/ClientRepositoryTest.class
+com/keeggo/clientsjavaapi/test/repository/account/AccountRepositoryTest.class
+com/keeggo/clientsjavaapi/it/ClientsJavaApiIntegrationTest$1.class
+com/keeggo/clientsjavaapi/test/repository/user/UserRepositoryTest.class
+com/keeggo/clientsjavaapi/test/controller/user/UserAccountControllerTest.class
+com/keeggo/clientsjavaapi/test/service/account/AccountServiceTest.class
+com/keeggo/clientsjavaapi/test/repository/user/UserAccountRepositoryTest.class
+com/keeggo/clientsjavaapi/test/controller/user/UserControllerTest.class
+com/keeggo/clientsjavaapi/test/service/user/UserAccountServiceTest.class
+com/keeggo/clientsjavaapi/test/controller/client/ClientControllerTest.class
+com/keeggo/clientsjavaapi/test/service/user/UserServiceTest.class
+com/keeggo/clientsjavaapi/test/controller/account/AccountControllerTest.class
+com/keeggo/clientsjavaapi/test/service/client/ClientServiceTest.class
+com/keeggo/clientsjavaapi/it/ClientsJavaApiIntegrationTest.class
