@@ -105,7 +105,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter{
         } else {
         	http.csrf().disable().exceptionHandling().authenticationEntryPoint(unauthorizedHandler)
         	.and().sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS).and().authorizeRequests()
-        	.antMatchers("/api-clients/v1/auth/**", "/api-clients/v1/users/**", "/configuration/security", "/webjars/**", 
+        	.antMatchers("/**","/api-clients/v1/auth/**", "/api-clients/v1/users/**", "/configuration/security", "/webjars/**", 
         			"/v2/api-docs", "/swagger-resources/**", "/swagger-ui/**", "/manage/**")
     		.permitAll().anyRequest().authenticated();
     		http.addFilterBefore(authenticationTokenFilterBean(), UsernamePasswordAuthenticationFilter.class);
